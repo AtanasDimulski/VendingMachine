@@ -1,0 +1,2 @@
+INFURA_API = https://rinkeby.infura.io/v3/<YOUR INFURA API> //This is set up do deploy the contract on the rinkeby network
+SECRET_KEY = <YOUR MNEMONIC PHRASE>
